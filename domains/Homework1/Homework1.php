@@ -16,13 +16,8 @@
         $age = 20;
         echo "Меня зовут $name<br/>";
         echo "Мне $age лет<br/>";
-        echo '"<br/>';
-        echo '!<br/>';
-        echo '|<br/>';
-        echo '/<br/>';
-        echo "'<br/>";
-        echo '"<br/>';
-        echo '\<br/>'; // Задание 1 конец
+        echo '"!|/\'"\<br/>';
+        // Задание 1 конец
     }
         one();
     const DRAWING = 80; // Задание 2 начало
